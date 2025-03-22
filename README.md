@@ -1,46 +1,22 @@
-# OKTAY KAAN MEMİS PORTFOLIO
+# 🌐 Personal Portfolio Website
 
-This portfolio will develope for oktay kaan memis
+This is my personal portfolio website, built with **React** (frontend) and **Django** (backend). It showcases my work, skills, and provides a way to contact me. The site is fully responsive and designed with a modern, clean aesthetic.
 
-In this branch will develope frontend page(s)
-
-Notes
 ---
 
-Pages:
-- Home page
+## 🚀 Features
 
-    ```
-    I will write 'I am a Python developer' 
-    I will add external links
-    ```
+- 🖥️ Modern, responsive UI built with React
+- 🎯 Project showcase with detailed info
+- 📬 Contact form with backend handling (Django)
 
-- About Me
-    ```
-    I will write something about me
-    I will add education history
-    I will add languages area
-    ```
+---
 
-- Experiences & Projects
+## 🛠️ Technologies Used
 
-    ```
-    I will add my experiences
-    I will add my projects
-    ```
+### Frontend
+- React
+- CSS / SCSS / Tailwind
 
-- Contact me
-
-    ```
-    I will add contanct me area
-    ```
-
-- Blog:
-
-    ```
-    I will prepare a blog app (Phase 2)
-    ```
-
-# Developers
-
-- [Oktay Kaan Memiş](https://github.com/oktaykaanmemis)
+### Backend
+- Django & Django REST Framework
