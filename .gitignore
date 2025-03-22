@@ -1,14 +1,12 @@
-# Python
-__pycache__/
-*.py[cod]
-*.sqlite3
-*.env
-*.log
+# dependencies
+/node_modules
 
-# Django
-db.sqlite3
-/staticfiles/
-media/
+# dotenv environment variables
+.env
 
-# VSCode/PyCharm gibi editörler
-.vscode/
+# build outputs
+/build
+/dist
+
+# misc
+.DS_Store

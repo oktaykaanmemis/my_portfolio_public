@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'JetBrainsMono';
+  src: url('/src/fonts/JetBrainsMono/JetBrainsMono-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono';
+  src: url('/src/fonts/JetBrainsMono/JetBrainsMono-Thin.woff2') format('woff2');
+  font-weight: thin;
+  font-style: thin;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono';
+  src: url('/src/fonts/JetBrainsMono/JetBrainsMono-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: 'BlueNotMono';
+  src: url('/src/fonts/BlueNotMono/Blue\ Mono.otf') format('opentype');
+  font-weight: normal;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Header */
+@font-face { 
+  font-family: 'Neo Sans Std';
+  src: url('/src/fonts/NeoSansStd/Neo\ Sans\ Std\ Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face { 
+  font-family: 'Neo Sans Std';
+  src: url('/src/fonts/NeoSansStd/Neo\ Sans\ Std\ Light.otf') format('opentype');
+  font-weight: thin;
+  font-style: thin;
+}
+
+/* For logo */
+@font-face {
+  font-family: 'AngellaWhite';
+  src: url('/src/fonts/AngellaWhite/Angella\ White.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Autograf';
+  src: url('/src/fonts/Autograf/Autograf_PersonalUseOnly.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BillionMiracles';
+  src: url('/src/fonts/BillionMiracles/Billion\ Miracles.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'QuickSignature';
+  src: url('/src/fonts/QuickSignature/Quick\ Signature\ Personal\ Use.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Respondent';
+  src: url('/src/fonts/Respondent/RespondentMedium_PERSONAL_USE_ONLY.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RetroSignature';
+  src: url('/src/fonts/RetroSignature/RetroSignature.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TheWeddingSignature';
+  src: url('/src/fonts/TheWeddingSignature/TheWeddingSignature-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Xtreem';
+  src: url('/src/fonts/Xtreem/XtreemMedium_PERSONAL_USE.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}

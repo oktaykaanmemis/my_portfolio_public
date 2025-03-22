@@ -1,0 +1,26 @@
+.image-container {
+  position: relative !important;
+  height: 75% !important;
+  overflow: hidden !important;
+}
+
+.project-image {
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
+  height: 133.33%;
+  object-fit: cover;
+  object-position: top;
+}
+
+.icon-gold {
+  color: #dbaf63;
+  transition: color 0.5s ease;
+}
+
+.icon-gold:hover {
+  color: #a7864b;
+}
+
+.text-gold {
+  color: #dbaf63;
+}

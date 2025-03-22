@@ -1,0 +1,37 @@
+.p-about {
+    color: #ffbe0b;
+}
+
+.key {
+    color: #fb5607;
+}
+
+.bool-value {
+    color: #ff006e;
+}
+
+.curly-brackets {
+    color: #8338ec;
+}
+
+.square-brackets {
+    color: #3a86ff;
+}
+
+.hover\:bg-zinc-800 .space {
+    color: transparent;
+    font-size: inherit;
+    font-family: monospace;
+    transition: color 1s ease;
+}
+
+.hover\:bg-zinc-800:hover .space {
+    color: #808080;
+    font-size: inherit;
+    font-family: monospace;
+    transition: color 0.5s ease;
+}
+
+.border-gold  {
+    border-color: #dbaf63;
+} 

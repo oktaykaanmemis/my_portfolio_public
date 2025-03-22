@@ -1,0 +1,21 @@
+.p-hello{
+    font-family: 'BlueNotMono', monospace;
+    color: #f8f8f8;
+}
+
+.p-name{
+    font-family: 'BlueNotMono', monospace;
+    color: #dbaf63;
+}
+
+.p-title{
+    font-family: 'BlueNotMono', monospace;
+    color: #f8f8f8;
+}
+
+@media (max-width: 768px) {
+    #home {
+        min-height: 100vh;
+        height: 100vh;
+    }
+}
